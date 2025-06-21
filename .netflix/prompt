@@ -1,0 +1,13 @@
+Netflix Clone Website
+
+A production-ready streaming platform clone featuring:
+- Authentic Netflix-style design and user experience
+- Hero section with featured content
+- Multiple content carousels (Trending, Popular, My List, etc.)
+- Interactive movie cards with detailed hover previews
+- Search functionality with live filtering
+- Responsive design for all screen sizes
+- Smooth animations and micro-interactions
+- Netflix color scheme with signature red (#E50914)
+
+Built with React, TypeScript, and Tailwind CSS for optimal performance and maintainability.

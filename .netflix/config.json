@@ -1,0 +1,14 @@
+{
+  "name": "netflix-clone",
+  "version": "1.0.0",
+  "type": "streaming-platform",
+  "framework": "react-typescript",
+  "styling": "tailwindcss",
+  "features": [
+    "hero-section",
+    "content-carousels",
+    "search-functionality",
+    "responsive-design",
+    "hover-animations"
+  ]
+}
